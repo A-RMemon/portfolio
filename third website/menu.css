@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    text-transform: uppercase;
+    background-color: rgb(211, 209, 209);
+}
+
+/* section one  */
+.one{
+    display: flex;
+
+}
+.one-food{
+    width: 30%;
+    font-size: 1.3rem;
+}
+.one-food ul li{
+    list-style-type: circle;
+}
+.one-price{
+width: 20%;
+text-align: center;
+font-size: 1.3rem;
+
+}
+.one{
+    margin-top: 20px;
+}
+#one h1{
+    margin-top: 20px;
+    text-align: center;
+font-size: 2.5rem;
+}   
+.one-food h1{
+    margin-bottom: 20px;
+}
+.one-price h1{
+margin-bottom: 20px;
+}
